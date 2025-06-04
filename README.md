@@ -13,7 +13,6 @@ Satu halaman HTML bernama `ultah-bini-with-audio.html` yang:
 Karena gue cinta dia, dan karena HTML & CSS bisa juga jadi surat cinta digital.
 
 ## 💖 Coba sendiri dong!
-👉 [Klik buat lihat hasilnya langsung](https://rezabonooja.github.io/AYOKNGEWE/ultah-bini-with-audio.html)
 
 ## 🛠 Cara edit/make it yours
 1. Fork repo ini
